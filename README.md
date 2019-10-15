@@ -1,3 +1,2 @@
 # ExampleRepository
-Just starting
-Example edit
+Testing the update read me
